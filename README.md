@@ -4,6 +4,17 @@ StageSync is a studio-grade live band and musician booking platform. It features
 
 ---
 
+## Team Details
+
+| Role | Name | Enrollment No. | GitHub Username |
+|------|------|----------------|-----------------|
+| Group Lead | Ojus Sood | 2501010313 | ojus-sd |
+| Member 2 | Shubham Mittal | 2501010446 | shubhammittal2241 |
+| Member 3 | Ajay Yadav | 2501010042 | AjayYadav08 |
+| Member 4 | Kartikey Dhawan | 2501010213 | kartikey-dhawan |
+
+---
+
 ## 1. Quick Links
 
 - **Live Cloud Deployment:** [https://newapproj.vercel.app](https://newapproj.vercel.app)
